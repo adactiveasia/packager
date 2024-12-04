@@ -30,7 +30,7 @@
     "@electron/get": "^3.0.0",
     "@electron/notarize": "^2.1.0",
     "@electron/osx-sign": "^1.0.5",
-    "@electron/universal": "^2.0.1",
+    "@electron/universal": "adactiveasia/universal",
     "@electron/windows-sign": "^1.0.0",
     "debug": "^4.0.1",
     "extract-zip": "^2.0.0",
